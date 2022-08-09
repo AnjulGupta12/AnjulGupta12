@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Anjul Gupta</h1>
+<h1 align="center">Hey 👋, It's me ANJUL GUPTA</h1>
 <h3 align="center">An Automation and testing engineer from India(IVS-SDET)</h3>
+<h5 align="center">Driven software engineer in automation and testing who enjoys finding solutions to challenging problems. Graduated with a B.Tech degree in Mechanical.
+</br>Currently working in Java on technologies like Selanium, TestNG, Cucumber, Gerkhin, Maven and designing automation framework based on application requirement. Also have experience in Java, C/C++, Python, Frontend and web application.
+</br>I am interested in learning, teaching and helping people to grow. I believe in the power of programming to transform and improve the lives of people around the world.
+</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anjulgupta12&label=Profile%20views&color=0e75b6&style=flat" alt="anjulgupta12" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=anjulgupta12&label=Profile%20views&color=0e75b6&style=flat" alt="anjulgupta12" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjulgupta12" alt="anjulgupta12" /></a> </p>
 
 - 🌱 I’m currently learning **Web development**
 
-- 👨‍💻 All of my projects are available at [anjulgupta.wordpress.com](anjulgupta.wordpress.com)
-
-- 📝 I regularly write articles on [anjulgupta.wordpress.com](anjulgupta.wordpress.com)
-
 - 💬 Ask me about **Automation and Testing**
+
+- 👨‍💻 All of my projects are available at and I regularly write articles on [anjulgupta.wordpress.com](anjulgupta.wordpress.com)
 
 - 📫 How to reach me **anjul.gupta125@gmail.com**
 
