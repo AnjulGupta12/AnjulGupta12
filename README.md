@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anjul.gupta125@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anjul-gupta-384415164" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anjul-gupta-384415164" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anjulgupta125" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anjulgupta125" height="30" width="40" /></a>
@@ -28,8 +28,13 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjulgupta12&show_icons=true&locale=en&layout=compact" alt="anjulgupta12" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anjulgupta12&show_icons=true&locale=en&layout=compact" alt="anjulgupta12" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjulgupta12&show_icons=true&locale=en" alt="anjulgupta12" /></p>
+<!--<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anjulgupta12&show_icons=true&locale=en" alt="anjulgupta12" /></p>-->
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjulgupta12&" alt="anjulgupta12" /></p>
+
+
+[![Anjul's github activity graph](https://activity-graph.herokuapp.com/graph?username=AnjulGupta12&bg_color=000000&color=3620f7&line=5a0c99&point=1adbce&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ 
+
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anjulgupta12&" alt="anjulgupta12" /></p>
