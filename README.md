@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Automation and Testing**
 
-- 👨‍💻 All of my projects are available at and I regularly write articles on [anjulgupta.wordpress.com](anjulgupta.wordpress.com)
+- 👨‍💻 All of my projects are available at and I regularly write articles on [wordpress website](https://anjulgupta.wordpress.com/)
 
 - 📫 How to reach me **anjul.gupta125@gmail.com**
 
