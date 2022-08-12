@@ -1,6 +1,6 @@
 <h1 align="center">Hey <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, It's me ANJUL GUPTA</h1>
 <h3 align="center">An Automation and testing engineer from India(IVS-SDET)<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"></h3>
-<p></br> ​<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coder GIF" height=250 width=350  /> </p>
+<p align="center"></br> ​<img align="center" src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Coder GIF" height=50 width=100  /> </p>
 <h5 align="center">Driven software engineer in automation and testing who enjoys finding solutions to challenging problems. Graduated with a B.Tech degree in Mechanical.
 </br>Currently working in Java on technologies like Selanium, TestNG, Cucumber, Gerkhin, Maven and designing automation framework based on application requirement. Also have experience in Java, C/C++, Python, Frontend and web application.
 </br>I am interested in learning, teaching and helping people to grow. I believe in the power of programming to transform and improve the lives of people around the world.
