@@ -6,12 +6,6 @@
 </p>
 
 
-<p align="center">
-<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
-<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
-<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
-</p>
-
 
 <h5 align="center">Driven software engineer in automation and testing who enjoys finding solutions to challenging problems. Graduated with a B.Tech degree in Mechanical.
 </br>Currently working in Java on technologies like Selanium, TestNG, Cucumber, Gerkhin, Maven and designing automation framework based on application requirement. Also have experience in Java, C/C++, Python, Frontend and web application.
