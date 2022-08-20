@@ -24,7 +24,7 @@
 
 - 👨‍💻 All of my projects are available at and I regularly write articles on [wordpress website](https://anjulgupta.wordpress.com/)
 
-- 📫 How to reach me **anjul.gupta125@gmail.com**
+- 📫 How to reach me **anjulgupta125@gmail.com**
 
 <h3 align="left"> <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">Connect with me:</h3>
 <p align="right">
