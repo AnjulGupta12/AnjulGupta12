@@ -18,7 +18,7 @@
 
 <!--<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anjulgupta12" alt="anjulgupta12" /></a> </p>-->
 
-- 🌱 I’m currently learning **Web development**
+- 🌱 I’m currently learning **Fullstack development**
 
 - 💬 Ask me about **Automation and Testing**
 
