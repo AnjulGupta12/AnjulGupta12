@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Anjul%20Gupta-blue?logo=Linkedin&logoColor=blue&labelColor=black)]([https://www.linkedin.com/in/ahmad-alsawalqeh/](https://www.linkedin.com/in/anjulgupta12/))
 [![Mail](https://img.shields.io/badge/Gmail-anjulgupta125@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:anjulgupta125@gmail.com)
 <br>
-<img src="https://github.com/AnjulGupta12/AnjulGupta12/blob/main/AnjulBanner%20(2).png" alt="banner that says Anjul Gupta - System Engineer alongside a cartoon illustration of Monica" height="333" width="999">
+<img src="https://github.com/AnjulGupta12/AnjulGupta12/blob/main/AnjulBanner%20(2).png" alt="banner that says Anjul Gupta - System Engineer alongside a cartoon illustration of Monica" >
 
 <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
