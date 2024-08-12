@@ -2,6 +2,7 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Anjul%20Gupta-blue?logo=Linkedin&logoColor=blue&labelColor=black)]([https://www.linkedin.com/in/ahmad-alsawalqeh/](https://www.linkedin.com/in/anjulgupta12/))
 [![Mail](https://img.shields.io/badge/Gmail-anjulgupta125@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:anjulgupta125@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-Click%20here-blue?logo=Resume&logoColor=blue&labelColor=black)](https://docs.google.com/document/d/1b3qmgWypkM0T1DGK8RqJV1P54uHhjKdUOkwfzKWtAtU/edit)
 <br>
 <img src="https://github.com/AnjulGupta12/AnjulGupta12/blob/main/AnjulBanner%20(2).png" alt="banner that says Anjul Gupta - System Engineer alongside a cartoon illustration of Monica" >
 
