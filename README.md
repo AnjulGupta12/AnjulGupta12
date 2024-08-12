@@ -12,7 +12,7 @@
 
 
 - 2+ years experience in software development and quality assurance within the Banking domain. 
-- Holds ISTQB Foundation and Agile Tester certifications.
+- Holds <b>ISTQB Foundation and Agile Tester</b> certifications.
 - Developed and tested features, created test cases, and executed regression tests in the Banking domain.
 - Conducted thorough front-end integration and E2E testing, ensuring seamless user experience.
 - Provided detailed test documentation, defect analysis, and reports while managing defect lifecycle in JIRA/Zephyr.
