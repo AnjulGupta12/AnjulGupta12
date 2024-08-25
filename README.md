@@ -9,7 +9,7 @@
 <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 <h3 align='center'><strong><a href="https://anjulgupta.wordpress.com/" target="_blank">Portfolio🌐</a></strong></h3>
-<p align='center'>System Engineer | SDET | ISTQB Certified </p>
+<h3 align='center'>System Engineer | SDET | ISTQB Certified </h3>
 
 
 - 2+ years experience in software development and quality assurance within the Banking domain. 
