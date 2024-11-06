@@ -18,7 +18,7 @@
 - Conducted thorough front-end integration and E2E testing, ensuring seamless user experience.
 - Provided detailed test documentation, defect analysis, and reports while managing defect lifecycle in JIRA/Zephyr.
 - Automated end-to-end testing, identified and logged over 200 defects in JIRA, boosting team efficiency by 16% and project efficiency by 3% (data untill august 2024).
-- Implemented TestNG automation using Maven and Java Selenium for <a href="https://github.com/AnjulGupta12/Edureka_Automation" target="_blank">Edureka</a>, <a href="https://github.com/AnjulGupta12/Edureka_Automation" target="_blank">SpiceJet</a>, <a href="https://github.com/AnjulGupta12/OrangeHRM" target="_blank">OrangeHRM</a>, <a href="https://github.com/AnjulGupta12/FD_details" target="_blank">FD-Detail</a> developed Page Object Models (POM) for scalability, and designed test scenarios across multiple projects, publishing work on GitHub
+- Implemented TestNG automation using Maven and Java Selenium for <a href="https://github.com/AnjulGupta12/Edureka_Automation" target="_blank">Edureka</a>, <a href="https://github.com/AnjulGupta12/SpiceJet_TestNG_Automation" target="_blank">SpiceJet</a>, <a href="https://github.com/AnjulGupta12/OrangeHRM" target="_blank">OrangeHRM</a>, <a href="https://github.com/AnjulGupta12/FD_details" target="_blank">FD-Detail</a> developed Page Object Models (POM) for scalability, and designed test scenarios across multiple projects, publishing work on GitHub
 </h5>
 
 
