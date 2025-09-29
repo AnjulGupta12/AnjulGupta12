@@ -4,7 +4,7 @@
 [![Mail](https://img.shields.io/badge/Gmail-anjulgupta125@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:anjulgupta125@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Click%20here-blue?logo=Resume&logoColor=blue&labelColor=black)](https://docs.google.com/document/d/1b3qmgWypkM0T1DGK8RqJV1P54uHhjKdUOkwfzKWtAtU/edit)
 <br>
-<img src="https://github.com/AnjulGupta12/AnjulGupta12/blob/main/AnjulBanner.png" alt="banner that says Anjul Gupta - System Engineer alongside a cartoon illustration of Monica" >
+<img width="1200" height="400" src="https://github.com/AnjulGupta12/AnjulGupta12/blob/main/AnjulBanner.png" alt="banner that says Anjul Gupta - data Engineer alongside a cartoon illustration" >
 
 <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
