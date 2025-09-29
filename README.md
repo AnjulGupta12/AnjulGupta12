@@ -4,21 +4,26 @@
 [![Mail](https://img.shields.io/badge/Gmail-anjulgupta125@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:anjulgupta125@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-Click%20here-blue?logo=Resume&logoColor=blue&labelColor=black)](https://docs.google.com/document/d/1b3qmgWypkM0T1DGK8RqJV1P54uHhjKdUOkwfzKWtAtU/edit)
 <br>
-<img src="https://github.com/AnjulGupta12/AnjulGupta12/blob/main/AnjulBanner%20(2).png" alt="banner that says Anjul Gupta - System Engineer alongside a cartoon illustration of Monica" >
+<img src="https://github.com/AnjulGupta12/AnjulGupta12/blob/main/AnjulBanner.png" alt="banner that says Anjul Gupta - System Engineer alongside a cartoon illustration of Monica" >
 
 <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 <h3 align='center'><strong><a href="https://anjulgupta.wordpress.com/" target="_blank">Portfolio🌐</a></strong></h3>
-<h3 align='center'>System Engineer | SDET | ISTQB Certified </h3>
+<h3 align='center'>Data Engineer @ Infosys | BFSI Domain 
+  <br>Azure & GCP | PySpark | SQL | Kafka | Snowflake | Oracle (ORMB) | Data Quality & Automation (SDET) | AI-900 | AZ-900 | 2 x ISTQB </h3>
 
-
-- 2+ years experience in software development and quality assurance within the Banking domain. 
-- Holds <b>ISTQB Foundation and Agile Tester</b> certifications.
-- Developed and tested features, created test cases, and executed regression tests.
-- Conducted thorough front-end integration and E2E testing, ensuring seamless user experience.
-- Provided detailed test documentation, defect analysis, and reports while managing defect lifecycle in JIRA/Zephyr.
-- Automated end-to-end testing, identified and logged over 200 defects in JIRA, boosting team efficiency by 16% and project efficiency by 3% (data untill august 2024).
-- Implemented TestNG automation using Maven and Java Selenium for <a href="https://github.com/AnjulGupta12/Edureka_Automation" target="_blank">Edureka</a>, <a href="https://github.com/AnjulGupta12/SpiceJet_TestNG_Automation" target="_blank">SpiceJet</a>, <a href="https://github.com/AnjulGupta12/OrangeHRM" target="_blank">OrangeHRM</a>, <a href="https://github.com/AnjulGupta12/FD_details" target="_blank">FD-Detail</a> developed Page Object Models (POM) for scalability, and designed test scenarios across multiple projects, publishing work on GitHub
+- 3+ years of hands-on experience in Data Engineering across BFSI and enterprise-scale applications.
+- Proficient in SQL, Python, and UNIX for ETL data validation, transformation, and backend testing.
+- Designed and optimized ETL pipelines for high-volume financial datasets, ensuring accuracy and integrity.
+- Worked with Hadoop, Hive, and Spark for large-scale data processing and analytics.
+- Developed and maintained data workflows using Apache Airflow, ensuring timely execution of batch processes.
+- Implemented data ingestion and streaming pipelines using Confluent Kafka, reducing latency in data delivery.
+- Experienced with NoSQL databases (MongoDB, Cassandra) for semi-structured and unstructured data handling.
+- Conducted backend-to-frontend data validation, ensuring consistent user experience across applications.
+- Collaborated with cross-functional teams (BAs, developers, testers, and product owners) to align data solutions with business requirements.
+- Published reusable Python/SQL data validation scripts and automation utilities, improving team efficiency by ~15%.
+- Implemented 15+ end-to-end Data Engineering projects including Flight Booking ETL pipelines with Airflow & CI/CD, E-commerce event-driven pipelines on Databricks, Travel Booking SCD2 Data Warehouse, UPI Transactions CDC streaming, Healthcare Medallion architecture, and multiple real-time/batch pipelines across GCP, Snowflake, and Azure ecosystems using PySpark, Airflow, Kafka, and Delta Lake, publishing work on GitHub.
+  
 </h5>
 
 
