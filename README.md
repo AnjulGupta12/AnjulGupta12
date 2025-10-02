@@ -38,38 +38,41 @@
   <a href="https://www.tutorialspoint.com/cprogramming/index.htm" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/> </a> 
   <a href="https://www.tutorialspoint.com/cplusplus/index.htm" target="_blank" rel="noreferrer">    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  alt="CPP" width="40" height="40"/></a> 
   <a href="https://www.tutorialspoint.com/java/index.htm" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="JAVA" width="40" height="40"/></a> 
-  <a href="https://www.tutorialspoint.com/selenium/index.htm" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="SELENIUM" width="40" height="40"/></a> 
+  <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="PYTHON" width="40" height="40"/> </a>
+    <br>
   <a href="https://www.tutorialspoint.com/mysql/index.htm" target="_blank" rel="noreferrer">   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL" width="40" height="40"/></a> 
+  <a href="" target="blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="ORACLE_SQL_DEVELOPER" width="40" height="40" /></a>
+  <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original-wordmark.svg" alt="CASSANDRA" width="40" height="40" />  </a>
+  <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MONGODB" width="40" height="40" /> </a>
+  <a href="" target="blank" rel="noreferrer"> <img src="https://github.com/trinodb/trino.io/blob/master/assets/trino.png" alt="TRINO" width="40" height="40" /> </a>
+<a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="AZURE" width="40" height="40"/> </a>
+  <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="GCP" width="40" height="40" />  </a>
+  <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="AWS" width="40" height="40" />  </a>
+  <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="PYSPARK" width="40" height="40" /> </a>
+  <a href="" target="blank" rel="noreferrer"><img src="https://github.com/trinodb/trino.io/blob/master/assets/images/logos/apache-hive.png" alt="HIVE" width="40" height="40"/></a>
+  <a href="" target="blank" rel="noreferrer"><img src="https://github.com/trinodb/trino.io/blob/master/assets/images/logos/snowflake.png" alt="SNOWFLAKE" width="40" height="40" /></a>
+  <a href="" target="blank" rel="noreferrer"><img src="https://github.com/trinodb/trino.io/blob/master/assets/images/logos/google-bigquery.png" alt="BIGQUERY" width="40" height="40" /></a>
+  <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" alt="HADOOP" width="40" height="40" />  </a>
+  <a href="" target="blank" rel="noreferrer"><img src="https://github.com/trinodb/trino.io/blob/master/assets/images/logos/apache-iceberg.png" alt="ICEBERG" width="40" height="40" /></a>
+  <a href="" target="blank" rel="noreferrer"><img src="https://github.com/tomaztk/Azure-Databricks/blob/main/images/logo-databricks.png" alt="DATABRICKS" width="40" height="40" /></a>
+  <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="KAFKA" width="40" height="40" /> </a>
+  <a href="" target="blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="AIRFLOW" width="40" height="40" />  </a>
+  <a href="" target="blank" rel="noreferrer"><img src="https://github.com/trinodb/trino.io/blob/master/assets/images/logos/apache-hudi.png" alt="HUDI" width="40" height="40" /></a>
+  <BR>
+  <a href="https://market.tutorialspoint.com/course/introduction-on-jira-and-confluence/index.asp" target="_blank" rel="noreferrer">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain-wordmark.svg"  alt="CONFLUENCE" width="80" height="40"/></a> 
+  <a href="https://market.tutorialspoint.com/course/introduction-on-jira-and-confluence/index.asp" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/58887125-079c-40c6-8fe5-bc27004ebe67" alt="JIRA" width="70" height="40"/></a> 
+  <a href="https://market.tutorialspoint.com/course/manual-testing-course-agile-jira-zephyr-project-and-interview-qanda/index.asp" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/73a3fc70-a814-4d79-ba0c-69dec50b4805" alt="ZEPHYR" width="40" height="40"/></a> 
+  <a href="https://market.tutorialspoint.com/course/master-git-and-github-fastest-way-ever/index.asp" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/5e75e941-41f4-42b5-8a9a-14b45f702df7" alt="GIT" width="40" height="40"/></a>
+  <a href="https://market.tutorialspoint.com/course/master-git-and-github-fastest-way-ever/index.asp" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/1efe1d74-6ac9-437d-a437-0953b04bcfe7" alt="GITHUB" width="42" height="40"/></a>
+  <a href="" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/205f5eff-d7c1-4381-8afa-fa7588181a23" alt="BITBUCKET" width="40" height="40"/></a>
+  <BR>
+  <a href="https://www.tutorialspoint.com/selenium/index.htm" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="SELENIUM" width="40" height="40"/></a> 
   <a href="https://www.tutorialspoint.com/cucumber/index.htm" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/e5cf0c82-64e5-41a9-a8dd-ed0bb14aff6f" alt="BDDCUCUMBER" width="40" height="40"/></a>
   <a href="https://www.tutorialspoint.com/testng/index.htm" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/90871f36-cc2e-4fc1-8673-7011aab72f78" alt="TESTNG" width="40" height="40"/></a> 
   <a href="https://www.tutorialspoint.com/junit/index.htm" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/2851a5d8-df39-4f5b-93cd-eb8c70224be2" alt="JUNIT" width="40" height="40"/></a> 
-  <a href="" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/d012ffb8-d9bd-4763-8478-067b70493eec" alt="ECLIPSE" width="60" height="40"/></a> 
-  <a href="" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/782d22c8-fa6f-466f-9eaf-a4ff91524a57" alt="VISUAL STUDIO CODE" width="40" height="40"/></a> 
-  <a href="" target="_blank" rel="noreferrer">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="MAVEN" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-plain-wordmark.svg"  alt="CONFLUENCE" width="80" height="40"/></a> 
-  <a href="" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/58887125-079c-40c6-8fe5-bc27004ebe67" alt="JIRA" width="70" height="40"/></a> 
-  <a href="" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/73a3fc70-a814-4d79-ba0c-69dec50b4805" alt="ZEPHYR" width="40" height="40"/></a> 
-  <a href="" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/5e75e941-41f4-42b5-8a9a-14b45f702df7" alt="GIT" width="40" height="40"/></a>
-  <a href="" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/1efe1d74-6ac9-437d-a437-0953b04bcfe7" alt="GITHUB" width="42" height="40"/></a>
-  <a href="" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/205f5eff-d7c1-4381-8afa-fa7588181a23" alt="BITBUCKET" width="40" height="40"/></a>
-    <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="" width="40" height="40"/> </a>
-    <a href="" target="blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" alt="40" width="40" height="40" /></a>
-    <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cassandra/cassandra-original-wordmark.svg" alt="40" width="40" height="40" />  </a>
-    <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="40" width="40" height="40" /> </a>
-    <a href="" target="blank" rel="noreferrer"> <img src="https://github.com/trinodb/trino.io/blob/master/assets/trino.png" alt="" width="40" height="40" /> </a>
-    <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" alt="40" width="40" height="40"/> </a>
-    <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original-wordmark.svg" alt="40" width="40" height="40" />  </a>
-    <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="40" width="40" height="40" />  </a>
-    <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" alt="40" width="40" height="40" /> </a>
-    <a href="" target="blank" rel="noreferrer"><img src="https://github.com/trinodb/trino.io/blob/master/assets/images/logos/apache-hive.png" alt="40" width="40" height="40"/></a>
-    <a href="" target="blank" rel="noreferrer"><img src="https://github.com/trinodb/trino.io/blob/master/assets/images/logos/snowflake.png" alt="40" width="40" height="40" /></a>
-    <a href="" target="blank" rel="noreferrer"><img src="https://github.com/trinodb/trino.io/blob/master/assets/images/logos/google-bigquery.png" alt="40" width="40" height="40" /></a>
-    <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" alt="40" width="40" height="40" />  </a>
-    <a href="" target="blank" rel="noreferrer"><img src="https://github.com/trinodb/trino.io/blob/master/assets/images/logos/apache-iceberg.png" alt="40" width="40" height="40" /></a>
-    <a href="" target="blank" rel="noreferrer"><img src="https://github.com/tomaztk/Azure-Databricks/blob/main/images/logo-databricks.png" alt="40" width="40" height="40" /></a>
-    <a href="" target="blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" alt="40" width="40" height="40" /> </a>
-    <a href="" target="blank" rel="noreferrer">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original.svg" alt="40" width="40" height="40" />  </a>
-    <a href="" target="blank" rel="noreferrer"><img src="https://github.com/trinodb/trino.io/blob/master/assets/images/logos/apache-hudi.png" alt="40" width="40" height="40" /></a>
+  <a href="https://www.tutorialspoint.com/maven/index.htm" target="_blank" rel="noreferrer">   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg" alt="MAVEN" width="40" height="40"/> </a>   
+  <a href="https://www.tutorialspoint.com/eclipse/index.htm" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/d012ffb8-d9bd-4763-8478-067b70493eec" alt="ECLIPSE" width="60" height="40"/></a> 
+   <a href="https://market.tutorialspoint.com/ebook/visual-studio-2019-in-depth/index.asp" target="_blank" rel="noreferrer">   <img src="https://github.com/user-attachments/assets/782d22c8-fa6f-466f-9eaf-a4ff91524a57" alt="VISUAL STUDIO CODE" width="40" height="40"/></a> 
    
   </p>
 
