@@ -8,7 +8,7 @@
 
 <img width="1200" height="400" src="https://github.com/AnjulGupta12/AnjulGupta12/blob/main/AnjulBanner.png" alt="banner that says Anjul Gupta - data Engineer alongside a cartoon illustration" >
 
-<a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
+<a href=""><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
 <h3 align='center'>4 Yrs Exp | Manufacturing and BFSI Domain |
    Azure Databricks, PySpark, Delta Lake, Unity Catalog, Medallion Architecture, Auto Loader, Spark SQL, Python | Cloud ETL, Apache Airflow, GCP BigQuery, CI/CD </h3>
