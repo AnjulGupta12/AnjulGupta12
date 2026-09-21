@@ -1,28 +1,59 @@
-<h1 align="left">Hi, I'm Anjul Gupta</h1>
+<h1 align="left">Hi, I'm Anjul Gupta 👋</h1>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-Anjul%20Gupta-blue?logo=Linkedin&logoColor=blue&labelColor=black)]([https://www.linkedin.com/in/ahmad-alsawalqeh/](https://www.linkedin.com/in/anjulgupta12/))
 [![Mail](https://img.shields.io/badge/Gmail-anjulgupta125@gmail.com-blue?logo=Gmail&logoColor=blue&labelColor=black)](mailto:anjulgupta125@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-Click%20here-blue?logo=Resume&logoColor=blue&labelColor=black)](https://docs.google.com/document/d/1hbxMzjaXo5cceSnK__37fcoNfm9uDXkCanDL5AH2QB0/edit?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-Click%20here-blue?logo=Resume&logoColor=blue&labelColor=black)](https://docs.google.com/document/d/1DDiSG8lssn7SnKYefTPMhWAiYbUMyArzRcwP5U8Ky6o/edit?tab=t.0)
 <br>
+### Data Engineer @ Infosys | Azure & GCP | SQL, Python, PySpark, Databricks, Airflow
+
 <img width="1200" height="400" src="https://github.com/AnjulGupta12/AnjulGupta12/blob/main/AnjulBanner.png" alt="banner that says Anjul Gupta - data Engineer alongside a cartoon illustration" >
 
 <a href="https://github.com/sponsors/M0nica"><img align="right" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 
-<h3 align='center'><strong><a href="https://anjulgupta.wordpress.com/" target="_blank">Portfolio🌐</a></strong></h3>
-<h3 align='center'>Data Engineer @ Infosys | BFSI Domain 
-  <br>Azure & GCP | PySpark | SQL | Kafka | Snowflake | Oracle (ORMB) | Data Quality & Automation (SDET) | AI-900 | AZ-900 | 2 x ISTQB </h3>
+<h3 align='center'>4 Yrs Exp | Manufacturing and BFSI Domain |
+   Azure Databricks, PySpark, Delta Lake, Unity Catalog, Medallion Architecture, Auto Loader, Spark SQL, Python | Cloud ETL, Apache Airflow, GCP BigQuery, CI/CD </h3>
 
-- 3+ years of hands-on experience in Data Engineering across BFSI and enterprise-scale applications.
-- Proficient in SQL, Python, and UNIX for ETL data validation, transformation, and backend testing.
-- Designed and optimized ETL pipelines for high-volume financial datasets, ensuring accuracy and integrity.
-- Worked with Hadoop, Hive, and Spark for large-scale data processing and analytics.
-- Developed and maintained data workflows using Apache Airflow, ensuring timely execution of batch processes.
-- Implemented data ingestion and streaming pipelines using Confluent Kafka, reducing latency in data delivery.
-- Experienced with NoSQL databases (MongoDB, Cassandra) for semi-structured and unstructured data handling.
-- Conducted backend-to-frontend data validation, ensuring consistent user experience across applications.
-- Collaborated with cross-functional teams (BAs, developers, testers, and product owners) to align data solutions with business requirements.
-- Published reusable Python/SQL data validation scripts and automation utilities, improving team efficiency by ~15%.
-- Implemented 15+ end-to-end Data Engineering projects including Flight Booking ETL pipelines with Airflow & CI/CD, E-commerce event-driven pipelines on Databricks, Travel Booking SCD2 Data Warehouse, UPI Transactions CDC streaming, Healthcare Medallion architecture, and multiple real-time/batch pipelines across GCP, Snowflake, and Azure ecosystems using PySpark, Airflow, Kafka, and Delta Lake, publishing work on GitHub.
+
+
+---
+
+### 👨‍💻 Bio
+
+I am a results-driven Data Engineer with over 3 years of hands-on experience building highly scalable ETL/ELT pipelines, dimensional data models, and enterprise Big Data architectures across the BFSI and Industrial domains. I specialize in designing Lakehouse environments using Azure Databricks, Delta Lake, and Apache Airflow, focusing strictly on Medallion Architecture, schema evolution, and automated CI/CD deployments.
+
+Whether I am applying liquid clustering and partition pruning to optimize massive cloud workflows, implementing Kafka for low-latency streaming, or building robust Python frameworks to automate backend data validation, my focus is always on delivering reliable, production-grade data platforms.
+
+**Core Stack:** Azure Databricks, GCP (BigQuery, Dataproc), PySpark, Python, SQL, Kafka, Snowflake, Apache Airflow, GitHub Actions / Azure DevOps.
+
+---
+
+### 🚀 Working Experience
+
+#### 🏭 Enterprise Digital Twin DataOps (NOVA Chemicals)
+
+Architected the data backbone for a massive industrial digital twin across 12 petrochemical manufacturing sites, unifying operational data (IT), live telemetry (OT), and unstructured engineering blueprints (ET) into Cognite Data Fusion (CDF).
+
+* **Massive Scale ETL:** Engineered high-throughput PySpark ETL/ELT pipelines on Azure Databricks to extract, transform, and load over 13 million operational event records and 1 million enterprise asset nodes.
+
+
+* **Lakehouse Optimization:** Managed 168 multi-part Delta Lake tables, implementing incremental ingestion via Databricks Auto Loader and optimizing query latency using liquid clustering, data partitioning, and partition pruning.
+
+
+* **Unstructured Data & OCR:** Automated the AI contextualization of SmartPlant mechanical blueprints, writing custom Python regex algorithms to resolve OCR hallucinations and batching Python workflows to exactly 25 files per Job ID to maximize API throughput.
+
+
+
+#### 🏦 Global Banking ETL Validation Framework (CITI Bank)
+
+Developed Python and SQL-based automated validation solutions to verify complex ETL data movement between legacy Oracle databases and downstream target applications in the BFSI domain.
+
+* **CI/CD Automation:** Integrated backend verification scripts directly into Bitbucket CI/CD pipelines, executing continuous regression tests on pull requests to prevent transactional discrepancies in production.
+
+
+* **Efficiency Impact:** Automated rigorous data-driven testing pipelines across 13 critical banking workflows, reducing manual ETL validation effort by 30% (from 5 story points down to 1 story point).
+
+
+
   
 </h5>
 
