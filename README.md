@@ -19,7 +19,7 @@
 
 ### 👨‍💻 Bio
 
-I am a results-driven Data Engineer with over 3 years of hands-on experience building highly scalable ETL/ELT pipelines, dimensional data models, and enterprise Big Data architectures across the BFSI and Industrial domains. I specialize in designing Lakehouse environments using Azure Databricks, Delta Lake, and Apache Airflow, focusing strictly on Medallion Architecture, schema evolution, and automated CI/CD deployments.
+I am a results-driven Data Engineer with over 4 years of hands-on experience building highly scalable ETL/ELT pipelines, dimensional data models, and enterprise Big Data architectures across the BFSI and Industrial domains. I specialize in designing Lakehouse environments using Azure Databricks, Delta Lake, and Apache Airflow, focusing strictly on Medallion Architecture, schema evolution, and automated CI/CD deployments.
 
 Whether I am applying liquid clustering and partition pruning to optimize massive cloud workflows, implementing Kafka for low-latency streaming, or building robust Python frameworks to automate backend data validation, my focus is always on delivering reliable, production-grade data platforms.
 
